@@ -13,7 +13,7 @@
                 "panel": "shared"
             },
             "runOptions": {
-                "runOn": "folderOpen"
+            //    "runOn": "folderOpen"
             },
             "group": "none"
         },
@@ -28,7 +28,7 @@
                 "panel": "shared"
             },
             "runOptions": {
-                "runOn": "folderOpen"
+            //    "runOn": "folderOpen"
             },
             "group": "none",
             "problemMatcher": {
@@ -56,7 +56,7 @@
                 "panel": "shared"
             },
             "runOptions": {
-                "runOn": "folderOpen"
+            //    "runOn": "folderOpen"
             },
             "group": "none",
             "dependsOn": ["yarn: chain"],
